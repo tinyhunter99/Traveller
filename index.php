@@ -67,7 +67,7 @@
         #strike:before, #strike:after{
             content: "";
             flex: 1 1;
-            border-bottom: 1px solid rgb(51,51,51);
+            border-bottom: 1px solid rgb(52,51,51);
             margin: auto;
         }
         #strike:before {
