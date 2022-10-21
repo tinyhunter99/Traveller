@@ -74,7 +74,7 @@
         .card img{
             height: 23.2rem;
         }
-        @media only screen and (max-width:450px){
+        @media only screen and (max-width:451px){
             .card{
                 margin: 2rem auto;
                 width: 40rem;
